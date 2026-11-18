@@ -117,5 +117,4 @@ Edit the constants at the top of the script:
   detected from tree object categories and names.
 
 ## License
-
-MIT (or choose your own).
+MIT
